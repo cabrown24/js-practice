@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(29, 29, 76);
+    color:rgb(191, 191, 236);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 25px;
+    color: rgb(221, 91, 227);
+}
+
+.instructions {
+    margin: auto;
+    width: 75%;
+    border: 1px rgb(76, 76, 155) solid;
+    border-radius: 10px;
+    margin-right: auto;
+    box-shadow: 5px 5px 25px;
+}
+
+ul ul {
+    padding-left: 0px
+}
+
+ul ul li {
+    list-style-type: none;
+    padding: 12px 20px;
+}
+
+strong {
+    color: rgb(221, 91, 227);
+}
+
+h2 {
+    font-weight: 200;
+}
+
+.finalLine {
+    list-style-type: none;
+    color: rgb(116, 75, 75);
+}
